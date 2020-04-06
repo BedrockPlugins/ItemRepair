@@ -1,0 +1,8 @@
+name: ItemRepair
+authors:
+  - benjamin.
+  - BedrockPlugins
+description: Plugin that allows you to repair damaged tools
+version: 1.0
+api: 3.2.0
+main: BedrockPlugins\ItemRepair\ItemRepair
